@@ -1,6 +1,6 @@
 # Manim Animations
 
-Welcome! This repository contains the code for my [Manim](https://www.manim.community/) animations featured on my YouTube channel: [KushDoesSmth](https://youtube.com/thekushdhingra).
+Welcome! This repository contains the code for my [Manim](https://www.manim.community/) animations featured on my YouTube channel: [KushDoesSmth](https://www.youtube.com/channel/UC5g58qKxuQ7IfIc_XJKrpCw).
 
 ## About
 
@@ -31,7 +31,7 @@ Here you'll find Python scripts and scene files used to create mathematical and 
 
 ## Watch the Animations
 
-Check out the rendered videos on my [YouTube channel](https://youtube.com/thekushdhingra)!
+Check out the rendered videos on my [YouTube channel](https://www.youtube.com/channel/UC5g58qKxuQ7IfIc_XJKrpCw)!
 
 ## Contributing
 
@@ -43,4 +43,4 @@ This project is licensed under the MIT License.
 
 ---
 
-_Created by [Kush Dhingra](https://youtube.com/thekushdhingra)_
+_Created by [Kush Dhingra](https://www.youtube.com/channel/UC5g58qKxuQ7IfIc_XJKrpCw)_
